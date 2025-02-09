@@ -23,7 +23,7 @@ Data is retrieved from three API endpoints:
 
 **Historical Quiz Data**: https://api.jsonserve.com/XgAgFJ
 
-⚙️ Setup Instructions
+ Setup Instructions
 ----
 Clone the Repository
 
