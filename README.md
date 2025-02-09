@@ -67,13 +67,16 @@ Personalized study plans recommend difficulty levels and topic focus.
 -----
 
 ✅ Student Persona Analysis - Categorizes users based on strengths and weaknesses.
+
 ✅ Probabilistic Model (Future Scope) - Predicts NEET rank using quiz data and historical performance.
 
 📌 Submission Details
 ----
 
 🔗 GitHub Repo: [https://github.com/Abhra-deep/Personalized-Student-Recommendations]
+
 📸 Screenshots: Included in the visualizations/ folder.
+
 🎥 Demo Video: [https://drive.google.com/file/d/1ICVCqWNPeb5mkTHr4Tn4_VmNoPgWcGX0/view?usp=sharing]
 
 🚀 Future Improvements
