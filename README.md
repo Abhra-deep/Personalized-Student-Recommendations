@@ -86,5 +86,5 @@ Implement a machine learning model to predict NEET ranks.
 Extend analysis to include peer comparisons and topic-wise learning suggestions.
 
 About
-
+----
 This project is developed as part of the AI Engineering Assignment to showcase data-driven recommendations for personalized learning. 🚀
